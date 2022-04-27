@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    john    john@mail.com   john twitter
 
 # THANKS
 
